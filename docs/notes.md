@@ -15,3 +15,4 @@ Notes and usage details for AArch64_Assembly.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
