@@ -39,3 +39,4 @@ test:
 # clarify the control flow
 # guard against empty input
 # drop an unused branch
+# avoid re-reading the config on every call
